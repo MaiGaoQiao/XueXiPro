@@ -4,9 +4,10 @@
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
 
+    <color name="mygray">#eff2f6</color>
     <color name="zhuse">#1e94de</color>
-    <color name="btn_login_normal">#00acff</color>
-    <color name="btn_login_pressed">#46678d</color>
+    <color name="btn_login_normal">#e5f5ff</color>
+    <color name="btn_login_pressed">#ffffff</color>
     <color name="btn_logout_normal">#d33f3f</color>
     <color name="btn_logout_pressed">#DA5A4D</color>
     <color name="btn_register_normal">#ffffff</color>
